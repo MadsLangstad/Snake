@@ -1,0 +1,14 @@
+        <div
+          class="element apple"
+          style="width: 20px; height: 20px; left: 400px; top: 200px"
+        ></div>
+        <div
+          class="element snake"
+          style="width: 20px; height: 20px; left: 500px; top: 300px"
+        ></div>
+
+
+        randomNumber (min, max)
+
+
+        randomNumber(0, 40); // 39 * 20
